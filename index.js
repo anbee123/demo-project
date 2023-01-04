@@ -1,2 +1,4 @@
-let myVar = "a"
-let myVar = "a + b"
+
+let myVar = "a + c";
+let myVar = "a + b";
+
